@@ -100,24 +100,23 @@ Cleaning up resources to control costs.
 
 This project serves as a portfolio-ready demonstration of deploying workloads on Kubernetes in Google Cloud.
 
-Repo Structure
+**Repo Structure**
+
 k8s-gcp-nginx-demo/
 │
 ├── README.md
 │
-├── screenshots/             # GUI screenshots
-│   ├── 01-cluster-overview.png
-│   ├── 02-api-enabled.png
-│   ├── 03-workload-hello-nginx.png
-│   ├── 04-service-loadbalancer.png
-│   ├── 05-nginx-browser.png
-│
-└── cli-screenshots/         # CLI screenshots
-    ├── 01-gcloud-init.png
-    ├── 02-install-kubectl.png
-    ├── 03-get-credentials.png
-    ├── 04-create-expose-service.png
-    ├── 05-cleanup.png
+screenshots/
+  01-cluster-overview.png
+  02-api-enabled.png
+  03-workload-hello-nginx.png
+  04-service-loadbalancer.png
+  05-nginx-browser.png
+  CLI/
+    01-gcloud-init.png
+    02-install-kubectl.png
+    03-get-credentials.png
+    04-cleanup.png
 
 
 
